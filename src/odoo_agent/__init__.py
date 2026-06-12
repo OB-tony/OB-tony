@@ -1,0 +1,2 @@
+"""Odoo HR agent package."""
+

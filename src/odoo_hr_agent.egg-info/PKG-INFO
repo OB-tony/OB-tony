@@ -1,3 +1,10 @@
+Metadata-Version: 2.4
+Name: odoo-hr-agent
+Version: 0.1.0
+Summary: Local CLI agent for HR-scoped Odoo operations
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
 # Odoo HR Agent
 
 Local CLI agent for HR-scoped Odoo operations.

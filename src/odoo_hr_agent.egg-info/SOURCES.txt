@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/odoo_agent/__init__.py
+src/odoo_agent/cli.py
+src/odoo_agent/config.py
+src/odoo_agent/intent.py
+src/odoo_agent/odoo_client.py
+src/odoo_agent/reminders.py
+src/odoo_agent/supabase_store.py
+src/odoo_hr_agent.egg-info/PKG-INFO
+src/odoo_hr_agent.egg-info/SOURCES.txt
+src/odoo_hr_agent.egg-info/dependency_links.txt
+src/odoo_hr_agent.egg-info/entry_points.txt
+src/odoo_hr_agent.egg-info/top_level.txt
+tests/test_reminders.py
